@@ -1,0 +1,246 @@
+fileFormatVersion: 2
+guid: 231316c120a73bc4ab57658010ae66a4
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Coffee:baseNeck
+    100002: Coffee:Body_MESH
+    100004: Coffee:CTRLS
+    100006: Coffee:Eyes_MESH
+    100008: Coffee:eyesRoot
+    100010: Coffee:General_CTRL
+    100012: Coffee:head
+    100014: Coffee:headRoot
+    100016: Coffee:headTop
+    100018: Coffee:JOINTS
+    100020: Coffee:L_ankle
+    100022: Coffee:L_ball
+    100024: Coffee:L_elbow
+    100026: Coffee:L_eye
+    100028: Coffee:L_Eye_MESH
+    100030: Coffee:L_hand
+    100032: Coffee:L_hip
+    100034: Coffee:L_ind
+    100036: Coffee:L_indRoot
+    100038: Coffee:L_indTip
+    100040: Coffee:L_knee
+    100042: Coffee:L_mid
+    100044: Coffee:L_midRoot
+    100046: Coffee:L_midTip
+    100048: Coffee:L_pinkRoot
+    100050: Coffee:L_pinky
+    100052: Coffee:L_ring
+    100054: Coffee:L_ringRoot
+    100056: Coffee:L_ringTip
+    100058: Coffee:L_sholder
+    100060: Coffee:L_sholderRoll
+    100062: Coffee:L_thumb
+    100064: Coffee:L_thumbRoot
+    100066: Coffee:L_thumbTip
+    100068: Coffee:L_toe_tip
+    100070: Coffee:L_wrist
+    100072: Coffee:LpinkyTip
+    100074: Coffee:MESH
+    100076: Coffee:R_ankle
+    100078: Coffee:R_ball
+    100080: Coffee:R_elbow
+    100082: Coffee:R_eye
+    100084: Coffee:R_Eye_MESH
+    100086: Coffee:R_hand
+    100088: Coffee:R_hip
+    100090: Coffee:R_ind
+    100092: Coffee:R_indRoot
+    100094: Coffee:R_indTip
+    100096: Coffee:R_knee
+    100098: Coffee:R_mid
+    100100: Coffee:R_midRoot
+    100102: Coffee:R_midTip
+    100104: Coffee:R_pinkRoot
+    100106: Coffee:R_pinky
+    100108: Coffee:R_ring
+    100110: Coffee:R_ringRoot
+    100112: Coffee:R_ringTip
+    100114: Coffee:R_sholder
+    100116: Coffee:R_sholderRoll
+    100118: Coffee:R_thumb
+    100120: Coffee:R_thumbRoot
+    100122: Coffee:R_thumbTip
+    100124: Coffee:R_toe_tip
+    100126: Coffee:R_wrist
+    100128: Coffee:root
+    100130: Coffee:RpinkyTip
+    100132: Coffee:shldrsRoot
+    100134: Coffee:spine1
+    100136: Coffee:spine2
+    100138: Coffee:spine3
+    100140: Coffee:spine4
+    100142: //RootNode
+    400000: Coffee:baseNeck
+    400002: Coffee:Body_MESH
+    400004: Coffee:CTRLS
+    400006: Coffee:Eyes_MESH
+    400008: Coffee:eyesRoot
+    400010: Coffee:General_CTRL
+    400012: Coffee:head
+    400014: Coffee:headRoot
+    400016: Coffee:headTop
+    400018: Coffee:JOINTS
+    400020: Coffee:L_ankle
+    400022: Coffee:L_ball
+    400024: Coffee:L_elbow
+    400026: Coffee:L_eye
+    400028: Coffee:L_Eye_MESH
+    400030: Coffee:L_hand
+    400032: Coffee:L_hip
+    400034: Coffee:L_ind
+    400036: Coffee:L_indRoot
+    400038: Coffee:L_indTip
+    400040: Coffee:L_knee
+    400042: Coffee:L_mid
+    400044: Coffee:L_midRoot
+    400046: Coffee:L_midTip
+    400048: Coffee:L_pinkRoot
+    400050: Coffee:L_pinky
+    400052: Coffee:L_ring
+    400054: Coffee:L_ringRoot
+    400056: Coffee:L_ringTip
+    400058: Coffee:L_sholder
+    400060: Coffee:L_sholderRoll
+    400062: Coffee:L_thumb
+    400064: Coffee:L_thumbRoot
+    400066: Coffee:L_thumbTip
+    400068: Coffee:L_toe_tip
+    400070: Coffee:L_wrist
+    400072: Coffee:LpinkyTip
+    400074: Coffee:MESH
+    400076: Coffee:R_ankle
+    400078: Coffee:R_ball
+    400080: Coffee:R_elbow
+    400082: Coffee:R_eye
+    400084: Coffee:R_Eye_MESH
+    400086: Coffee:R_hand
+    400088: Coffee:R_hip
+    400090: Coffee:R_ind
+    400092: Coffee:R_indRoot
+    400094: Coffee:R_indTip
+    400096: Coffee:R_knee
+    400098: Coffee:R_mid
+    400100: Coffee:R_midRoot
+    400102: Coffee:R_midTip
+    400104: Coffee:R_pinkRoot
+    400106: Coffee:R_pinky
+    400108: Coffee:R_ring
+    400110: Coffee:R_ringRoot
+    400112: Coffee:R_ringTip
+    400114: Coffee:R_sholder
+    400116: Coffee:R_sholderRoll
+    400118: Coffee:R_thumb
+    400120: Coffee:R_thumbRoot
+    400122: Coffee:R_thumbTip
+    400124: Coffee:R_toe_tip
+    400126: Coffee:R_wrist
+    400128: Coffee:root
+    400130: Coffee:RpinkyTip
+    400132: Coffee:shldrsRoot
+    400134: Coffee:spine1
+    400136: Coffee:spine2
+    400138: Coffee:spine3
+    400140: Coffee:spine4
+    400142: //RootNode
+    2100000: Coffee_lambert7
+    4300000: Coffee:L_Eye_MESH
+    4300002: Coffee:R_Eye_MESH
+    4300004: Coffee:Body_MESH
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Coffee:Body_MESH
+    13700002: Coffee:L_Eye_MESH
+    13700004: Coffee:R_Eye_MESH
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Coffee_lambert7
+    second: {fileID: 2100000, guid: c51dd90f4d6083245bca5e95d8e300c0, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

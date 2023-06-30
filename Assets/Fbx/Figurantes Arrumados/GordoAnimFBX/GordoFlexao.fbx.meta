@@ -1,0 +1,251 @@
+fileFormatVersion: 2
+guid: d466243cd870aac489ea05617b509e9e
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: NovoMusculo:baseNeck
+    100004: NovoMusculo:Body_MESH
+    100006: NovoMusculo:CTRLS
+    100008: NovoMusculo:Eyes_MESH
+    100010: NovoMusculo:eyesRoot
+    100012: NovoMusculo:General_CTRL
+    100014: NovoMusculo:head
+    100016: NovoMusculo:headRoot
+    100018: NovoMusculo:headTop
+    100020: NovoMusculo:JOINTS
+    100022: NovoMusculo:L_ankle
+    100024: NovoMusculo:L_ball
+    100026: NovoMusculo:L_elbow
+    100028: NovoMusculo:L_eye
+    100030: NovoMusculo:L_Eye_MESH
+    100032: NovoMusculo:L_hand
+    100034: NovoMusculo:L_hip
+    100036: NovoMusculo:L_ind
+    100038: NovoMusculo:L_indRoot
+    100040: NovoMusculo:L_indTip
+    100042: NovoMusculo:L_knee
+    100044: NovoMusculo:L_mid
+    100046: NovoMusculo:L_midRoot
+    100048: NovoMusculo:L_midTip
+    100050: NovoMusculo:L_pinkRoot
+    100052: NovoMusculo:L_pinky
+    100054: NovoMusculo:L_ring
+    100056: NovoMusculo:L_ringRoot
+    100058: NovoMusculo:L_ringTip
+    100060: NovoMusculo:L_sholder
+    100062: NovoMusculo:L_sholderRoll
+    100064: NovoMusculo:L_thumb
+    100066: NovoMusculo:L_thumbRoot
+    100068: NovoMusculo:L_thumbTip
+    100070: NovoMusculo:L_toe_tip
+    100072: NovoMusculo:L_wrist
+    100074: NovoMusculo:LpinkyTip
+    100076: NovoMusculo:MESH
+    100078: NovoMusculo:R_ankle
+    100080: NovoMusculo:R_ball
+    100082: NovoMusculo:R_elbow
+    100084: NovoMusculo:R_eye
+    100086: NovoMusculo:R_Eye_MESH
+    100088: NovoMusculo:R_hand
+    100090: NovoMusculo:R_hip
+    100092: NovoMusculo:R_ind
+    100094: NovoMusculo:R_indRoot
+    100096: NovoMusculo:R_indTip
+    100098: NovoMusculo:R_knee
+    100100: NovoMusculo:R_mid
+    100102: NovoMusculo:R_midRoot
+    100104: NovoMusculo:R_midTip
+    100106: NovoMusculo:R_pinkRoot
+    100108: NovoMusculo:R_pinky
+    100110: NovoMusculo:R_ring
+    100112: NovoMusculo:R_ringRoot
+    100114: NovoMusculo:R_ringTip
+    100116: NovoMusculo:R_sholder
+    100118: NovoMusculo:R_sholderRoll
+    100120: NovoMusculo:R_thumb
+    100122: NovoMusculo:R_thumbRoot
+    100124: NovoMusculo:R_thumbTip
+    100126: NovoMusculo:R_toe_tip
+    100128: NovoMusculo:R_wrist
+    100130: NovoMusculo:root
+    100132: NovoMusculo:RpinkyTip
+    100134: NovoMusculo:shldrsRoot
+    100136: NovoMusculo:spine1
+    100138: NovoMusculo:spine2
+    100140: NovoMusculo:spine3
+    100142: NovoMusculo:spine4
+    400000: //RootNode
+    400002: NovoMusculo:baseNeck
+    400004: NovoMusculo:Body_MESH
+    400006: NovoMusculo:CTRLS
+    400008: NovoMusculo:Eyes_MESH
+    400010: NovoMusculo:eyesRoot
+    400012: NovoMusculo:General_CTRL
+    400014: NovoMusculo:head
+    400016: NovoMusculo:headRoot
+    400018: NovoMusculo:headTop
+    400020: NovoMusculo:JOINTS
+    400022: NovoMusculo:L_ankle
+    400024: NovoMusculo:L_ball
+    400026: NovoMusculo:L_elbow
+    400028: NovoMusculo:L_eye
+    400030: NovoMusculo:L_Eye_MESH
+    400032: NovoMusculo:L_hand
+    400034: NovoMusculo:L_hip
+    400036: NovoMusculo:L_ind
+    400038: NovoMusculo:L_indRoot
+    400040: NovoMusculo:L_indTip
+    400042: NovoMusculo:L_knee
+    400044: NovoMusculo:L_mid
+    400046: NovoMusculo:L_midRoot
+    400048: NovoMusculo:L_midTip
+    400050: NovoMusculo:L_pinkRoot
+    400052: NovoMusculo:L_pinky
+    400054: NovoMusculo:L_ring
+    400056: NovoMusculo:L_ringRoot
+    400058: NovoMusculo:L_ringTip
+    400060: NovoMusculo:L_sholder
+    400062: NovoMusculo:L_sholderRoll
+    400064: NovoMusculo:L_thumb
+    400066: NovoMusculo:L_thumbRoot
+    400068: NovoMusculo:L_thumbTip
+    400070: NovoMusculo:L_toe_tip
+    400072: NovoMusculo:L_wrist
+    400074: NovoMusculo:LpinkyTip
+    400076: NovoMusculo:MESH
+    400078: NovoMusculo:R_ankle
+    400080: NovoMusculo:R_ball
+    400082: NovoMusculo:R_elbow
+    400084: NovoMusculo:R_eye
+    400086: NovoMusculo:R_Eye_MESH
+    400088: NovoMusculo:R_hand
+    400090: NovoMusculo:R_hip
+    400092: NovoMusculo:R_ind
+    400094: NovoMusculo:R_indRoot
+    400096: NovoMusculo:R_indTip
+    400098: NovoMusculo:R_knee
+    400100: NovoMusculo:R_mid
+    400102: NovoMusculo:R_midRoot
+    400104: NovoMusculo:R_midTip
+    400106: NovoMusculo:R_pinkRoot
+    400108: NovoMusculo:R_pinky
+    400110: NovoMusculo:R_ring
+    400112: NovoMusculo:R_ringRoot
+    400114: NovoMusculo:R_ringTip
+    400116: NovoMusculo:R_sholder
+    400118: NovoMusculo:R_sholderRoll
+    400120: NovoMusculo:R_thumb
+    400122: NovoMusculo:R_thumbRoot
+    400124: NovoMusculo:R_thumbTip
+    400126: NovoMusculo:R_toe_tip
+    400128: NovoMusculo:R_wrist
+    400130: NovoMusculo:root
+    400132: NovoMusculo:RpinkyTip
+    400134: NovoMusculo:shldrsRoot
+    400136: NovoMusculo:spine1
+    400138: NovoMusculo:spine2
+    400140: NovoMusculo:spine3
+    400142: NovoMusculo:spine4
+    2100000: NovoMusculo_lambert5
+    2100002: NovoMusculo_Iris
+    2100004: NovoMusculo_lambert7
+    2100006: NovoMusculo_lambert8
+    2100008: NovoMusculo_GordaoTextura
+    2100010: NovoMusculo_GordoTextura
+    4300000: NovoMusculo:L_Eye_MESH
+    4300002: NovoMusculo:R_Eye_MESH
+    4300004: NovoMusculo:Body_MESH
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: NovoMusculo:Body_MESH
+    13700002: NovoMusculo:L_Eye_MESH
+    13700004: NovoMusculo:R_Eye_MESH
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: NovoMusculo_GordoTextura
+    second: {fileID: 2100000, guid: 8b98bbac2874f224f9d1dca8a56af3ac, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

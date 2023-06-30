@@ -1,0 +1,134 @@
+fileFormatVersion: 2
+guid: ad7792253d3f7bc4da259c45f235c6f5
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Livro_creditos:joint10
+    100002: Livro_creditos:joint11
+    100004: Livro_creditos:joint12
+    100006: Livro_creditos:joint13
+    100008: Livro_creditos:joint14
+    100010: Livro_creditos:joint15
+    100012: Livro_creditos:joint16
+    100014: Livro_creditos:joint17
+    100016: Livro_creditos:joint2
+    100018: Livro_creditos:joint3
+    100020: Livro_creditos:joint4
+    100022: Livro_creditos:joint5
+    100024: Livro_creditos:joint6
+    100026: Livro_creditos:joint7
+    100028: Livro_creditos:joint8
+    100030: Livro_creditos:joint9
+    100032: Livro_creditos:Livro
+    100034: Livro_creditos:pCube1
+    100036: //RootNode
+    400000: Livro_creditos:joint10
+    400002: Livro_creditos:joint11
+    400004: Livro_creditos:joint12
+    400006: Livro_creditos:joint13
+    400008: Livro_creditos:joint14
+    400010: Livro_creditos:joint15
+    400012: Livro_creditos:joint16
+    400014: Livro_creditos:joint17
+    400016: Livro_creditos:joint2
+    400018: Livro_creditos:joint3
+    400020: Livro_creditos:joint4
+    400022: Livro_creditos:joint5
+    400024: Livro_creditos:joint6
+    400026: Livro_creditos:joint7
+    400028: Livro_creditos:joint8
+    400030: Livro_creditos:joint9
+    400032: Livro_creditos:Livro
+    400034: Livro_creditos:pCube1
+    400036: //RootNode
+    2100000: lambert1
+    2300000: Livro_creditos:Livro
+    3300000: Livro_creditos:Livro
+    4300000: Livro_creditos:Livro
+    4300002: Livro_creditos:pCube1
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Livro_creditos:pCube1
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

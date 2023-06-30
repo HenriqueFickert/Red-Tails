@@ -1,0 +1,246 @@
+fileFormatVersion: 2
+guid: 08e9f046d4306064e9c0e0bd50e7cf73
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Cookie:baseNeck
+    100002: Cookie:Body_MESH
+    100004: Cookie:CTRLS
+    100006: Cookie:Eyes_MESH
+    100008: Cookie:eyesRoot
+    100010: Cookie:General_CTRL
+    100012: Cookie:head
+    100014: Cookie:headRoot
+    100016: Cookie:headTop
+    100018: Cookie:JOINTS
+    100020: Cookie:L_ankle
+    100022: Cookie:L_ball
+    100024: Cookie:L_elbow
+    100026: Cookie:L_eye
+    100028: Cookie:L_Eye_MESH
+    100030: Cookie:L_hand
+    100032: Cookie:L_hip
+    100034: Cookie:L_ind
+    100036: Cookie:L_indRoot
+    100038: Cookie:L_indTip
+    100040: Cookie:L_knee
+    100042: Cookie:L_mid
+    100044: Cookie:L_midRoot
+    100046: Cookie:L_midTip
+    100048: Cookie:L_pinkRoot
+    100050: Cookie:L_pinky
+    100052: Cookie:L_ring
+    100054: Cookie:L_ringRoot
+    100056: Cookie:L_ringTip
+    100058: Cookie:L_sholder
+    100060: Cookie:L_sholderRoll
+    100062: Cookie:L_thumb
+    100064: Cookie:L_thumbRoot
+    100066: Cookie:L_thumbTip
+    100068: Cookie:L_toe_tip
+    100070: Cookie:L_wrist
+    100072: Cookie:LpinkyTip
+    100074: Cookie:MESH
+    100076: Cookie:R_ankle
+    100078: Cookie:R_ball
+    100080: Cookie:R_elbow
+    100082: Cookie:R_eye
+    100084: Cookie:R_Eye_MESH
+    100086: Cookie:R_hand
+    100088: Cookie:R_hip
+    100090: Cookie:R_ind
+    100092: Cookie:R_indRoot
+    100094: Cookie:R_indTip
+    100096: Cookie:R_knee
+    100098: Cookie:R_mid
+    100100: Cookie:R_midRoot
+    100102: Cookie:R_midTip
+    100104: Cookie:R_pinkRoot
+    100106: Cookie:R_pinky
+    100108: Cookie:R_ring
+    100110: Cookie:R_ringRoot
+    100112: Cookie:R_ringTip
+    100114: Cookie:R_sholder
+    100116: Cookie:R_sholderRoll
+    100118: Cookie:R_thumb
+    100120: Cookie:R_thumbRoot
+    100122: Cookie:R_thumbTip
+    100124: Cookie:R_toe_tip
+    100126: Cookie:R_wrist
+    100128: Cookie:root
+    100130: Cookie:RpinkyTip
+    100132: Cookie:shldrsRoot
+    100134: Cookie:spine1
+    100136: Cookie:spine2
+    100138: Cookie:spine3
+    100140: Cookie:spine4
+    100142: //RootNode
+    400000: Cookie:baseNeck
+    400002: Cookie:Body_MESH
+    400004: Cookie:CTRLS
+    400006: Cookie:Eyes_MESH
+    400008: Cookie:eyesRoot
+    400010: Cookie:General_CTRL
+    400012: Cookie:head
+    400014: Cookie:headRoot
+    400016: Cookie:headTop
+    400018: Cookie:JOINTS
+    400020: Cookie:L_ankle
+    400022: Cookie:L_ball
+    400024: Cookie:L_elbow
+    400026: Cookie:L_eye
+    400028: Cookie:L_Eye_MESH
+    400030: Cookie:L_hand
+    400032: Cookie:L_hip
+    400034: Cookie:L_ind
+    400036: Cookie:L_indRoot
+    400038: Cookie:L_indTip
+    400040: Cookie:L_knee
+    400042: Cookie:L_mid
+    400044: Cookie:L_midRoot
+    400046: Cookie:L_midTip
+    400048: Cookie:L_pinkRoot
+    400050: Cookie:L_pinky
+    400052: Cookie:L_ring
+    400054: Cookie:L_ringRoot
+    400056: Cookie:L_ringTip
+    400058: Cookie:L_sholder
+    400060: Cookie:L_sholderRoll
+    400062: Cookie:L_thumb
+    400064: Cookie:L_thumbRoot
+    400066: Cookie:L_thumbTip
+    400068: Cookie:L_toe_tip
+    400070: Cookie:L_wrist
+    400072: Cookie:LpinkyTip
+    400074: Cookie:MESH
+    400076: Cookie:R_ankle
+    400078: Cookie:R_ball
+    400080: Cookie:R_elbow
+    400082: Cookie:R_eye
+    400084: Cookie:R_Eye_MESH
+    400086: Cookie:R_hand
+    400088: Cookie:R_hip
+    400090: Cookie:R_ind
+    400092: Cookie:R_indRoot
+    400094: Cookie:R_indTip
+    400096: Cookie:R_knee
+    400098: Cookie:R_mid
+    400100: Cookie:R_midRoot
+    400102: Cookie:R_midTip
+    400104: Cookie:R_pinkRoot
+    400106: Cookie:R_pinky
+    400108: Cookie:R_ring
+    400110: Cookie:R_ringRoot
+    400112: Cookie:R_ringTip
+    400114: Cookie:R_sholder
+    400116: Cookie:R_sholderRoll
+    400118: Cookie:R_thumb
+    400120: Cookie:R_thumbRoot
+    400122: Cookie:R_thumbTip
+    400124: Cookie:R_toe_tip
+    400126: Cookie:R_wrist
+    400128: Cookie:root
+    400130: Cookie:RpinkyTip
+    400132: Cookie:shldrsRoot
+    400134: Cookie:spine1
+    400136: Cookie:spine2
+    400138: Cookie:spine3
+    400140: Cookie:spine4
+    400142: //RootNode
+    2100000: Cookie_lambert9
+    4300000: Cookie:L_Eye_MESH
+    4300002: Cookie:R_Eye_MESH
+    4300004: Cookie:Body_MESH
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Cookie:Body_MESH
+    13700002: Cookie:L_Eye_MESH
+    13700004: Cookie:R_Eye_MESH
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cookie_lambert9
+    second: {fileID: 2100000, guid: ecccfa475ff1bb443a6717a2ed90a5b5, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,251 @@
+fileFormatVersion: 2
+guid: b7387600ec64f12478f37e3cf1f5af16
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: NovoGordo:baseNeck
+    100004: NovoGordo:Body_MESH
+    100006: NovoGordo:CTRLS
+    100008: NovoGordo:Eyes_MESH
+    100010: NovoGordo:eyesRoot
+    100012: NovoGordo:General_CTRL
+    100014: NovoGordo:head
+    100016: NovoGordo:headRoot
+    100018: NovoGordo:headTop
+    100020: NovoGordo:JOINTS
+    100022: NovoGordo:L_ankle
+    100024: NovoGordo:L_ball
+    100026: NovoGordo:L_elbow
+    100028: NovoGordo:L_eye
+    100030: NovoGordo:L_Eye_MESH
+    100032: NovoGordo:L_hand
+    100034: NovoGordo:L_hip
+    100036: NovoGordo:L_ind
+    100038: NovoGordo:L_indRoot
+    100040: NovoGordo:L_indTip
+    100042: NovoGordo:L_knee
+    100044: NovoGordo:L_mid
+    100046: NovoGordo:L_midRoot
+    100048: NovoGordo:L_midTip
+    100050: NovoGordo:L_pinkRoot
+    100052: NovoGordo:L_pinky
+    100054: NovoGordo:L_ring
+    100056: NovoGordo:L_ringRoot
+    100058: NovoGordo:L_ringTip
+    100060: NovoGordo:L_sholder
+    100062: NovoGordo:L_sholderRoll
+    100064: NovoGordo:L_thumb
+    100066: NovoGordo:L_thumbRoot
+    100068: NovoGordo:L_thumbTip
+    100070: NovoGordo:L_toe_tip
+    100072: NovoGordo:L_wrist
+    100074: NovoGordo:LpinkyTip
+    100076: NovoGordo:MESH
+    100078: NovoGordo:R_ankle
+    100080: NovoGordo:R_ball
+    100082: NovoGordo:R_elbow
+    100084: NovoGordo:R_eye
+    100086: NovoGordo:R_Eye_MESH
+    100088: NovoGordo:R_hand
+    100090: NovoGordo:R_hip
+    100092: NovoGordo:R_ind
+    100094: NovoGordo:R_indRoot
+    100096: NovoGordo:R_indTip
+    100098: NovoGordo:R_knee
+    100100: NovoGordo:R_mid
+    100102: NovoGordo:R_midRoot
+    100104: NovoGordo:R_midTip
+    100106: NovoGordo:R_pinkRoot
+    100108: NovoGordo:R_pinky
+    100110: NovoGordo:R_ring
+    100112: NovoGordo:R_ringRoot
+    100114: NovoGordo:R_ringTip
+    100116: NovoGordo:R_sholder
+    100118: NovoGordo:R_sholderRoll
+    100120: NovoGordo:R_thumb
+    100122: NovoGordo:R_thumbRoot
+    100124: NovoGordo:R_thumbTip
+    100126: NovoGordo:R_toe_tip
+    100128: NovoGordo:R_wrist
+    100130: NovoGordo:root
+    100132: NovoGordo:RpinkyTip
+    100134: NovoGordo:shldrsRoot
+    100136: NovoGordo:spine1
+    100138: NovoGordo:spine2
+    100140: NovoGordo:spine3
+    100142: NovoGordo:spine4
+    400000: //RootNode
+    400002: NovoGordo:baseNeck
+    400004: NovoGordo:Body_MESH
+    400006: NovoGordo:CTRLS
+    400008: NovoGordo:Eyes_MESH
+    400010: NovoGordo:eyesRoot
+    400012: NovoGordo:General_CTRL
+    400014: NovoGordo:head
+    400016: NovoGordo:headRoot
+    400018: NovoGordo:headTop
+    400020: NovoGordo:JOINTS
+    400022: NovoGordo:L_ankle
+    400024: NovoGordo:L_ball
+    400026: NovoGordo:L_elbow
+    400028: NovoGordo:L_eye
+    400030: NovoGordo:L_Eye_MESH
+    400032: NovoGordo:L_hand
+    400034: NovoGordo:L_hip
+    400036: NovoGordo:L_ind
+    400038: NovoGordo:L_indRoot
+    400040: NovoGordo:L_indTip
+    400042: NovoGordo:L_knee
+    400044: NovoGordo:L_mid
+    400046: NovoGordo:L_midRoot
+    400048: NovoGordo:L_midTip
+    400050: NovoGordo:L_pinkRoot
+    400052: NovoGordo:L_pinky
+    400054: NovoGordo:L_ring
+    400056: NovoGordo:L_ringRoot
+    400058: NovoGordo:L_ringTip
+    400060: NovoGordo:L_sholder
+    400062: NovoGordo:L_sholderRoll
+    400064: NovoGordo:L_thumb
+    400066: NovoGordo:L_thumbRoot
+    400068: NovoGordo:L_thumbTip
+    400070: NovoGordo:L_toe_tip
+    400072: NovoGordo:L_wrist
+    400074: NovoGordo:LpinkyTip
+    400076: NovoGordo:MESH
+    400078: NovoGordo:R_ankle
+    400080: NovoGordo:R_ball
+    400082: NovoGordo:R_elbow
+    400084: NovoGordo:R_eye
+    400086: NovoGordo:R_Eye_MESH
+    400088: NovoGordo:R_hand
+    400090: NovoGordo:R_hip
+    400092: NovoGordo:R_ind
+    400094: NovoGordo:R_indRoot
+    400096: NovoGordo:R_indTip
+    400098: NovoGordo:R_knee
+    400100: NovoGordo:R_mid
+    400102: NovoGordo:R_midRoot
+    400104: NovoGordo:R_midTip
+    400106: NovoGordo:R_pinkRoot
+    400108: NovoGordo:R_pinky
+    400110: NovoGordo:R_ring
+    400112: NovoGordo:R_ringRoot
+    400114: NovoGordo:R_ringTip
+    400116: NovoGordo:R_sholder
+    400118: NovoGordo:R_sholderRoll
+    400120: NovoGordo:R_thumb
+    400122: NovoGordo:R_thumbRoot
+    400124: NovoGordo:R_thumbTip
+    400126: NovoGordo:R_toe_tip
+    400128: NovoGordo:R_wrist
+    400130: NovoGordo:root
+    400132: NovoGordo:RpinkyTip
+    400134: NovoGordo:shldrsRoot
+    400136: NovoGordo:spine1
+    400138: NovoGordo:spine2
+    400140: NovoGordo:spine3
+    400142: NovoGordo:spine4
+    2100000: NovoGordo_lambert5
+    2100002: NovoGordo_Iris
+    2100004: NovoGordo_lambert7
+    2100006: NovoGordo_lambert8
+    2100008: NovoGordo_GordaoTextura
+    2100010: NovoGordo_GordoTextura
+    4300000: NovoGordo:L_Eye_MESH
+    4300002: NovoGordo:R_Eye_MESH
+    4300004: NovoGordo:Body_MESH
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: NovoGordo:Body_MESH
+    13700002: NovoGordo:L_Eye_MESH
+    13700004: NovoGordo:R_Eye_MESH
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: NovoGordo_GordoTextura
+    second: {fileID: 2100000, guid: ca14f68b691875a4bb18a46d2ee49ba1, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
